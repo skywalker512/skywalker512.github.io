@@ -22,3 +22,7 @@ rss_url: /pages/rss.xml
 # avatar头像及Favicon
 avatar: http://dn-hzhblog.qbox.me/site-avatar.png
 favicon: http://dn-hzhblog.qbox.me/site-favicon.ico
+
+# disqus 设置
+disqus:
+  shortname: houzhenhong
