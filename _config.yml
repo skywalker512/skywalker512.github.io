@@ -9,19 +9,19 @@ kramdown:
 author: 
   name: houzhenhong
   email: houzhenhong@outlook.com
-  link: http://houzhenhong.eu.org
-  weibo: http://weibo.com/2771513197
+  link: https://houzhenhong.towerlight.top
+  weibo: http://weibo.com/
   github: https://github.com/skywalker512
 
 # 站点信息
-title: HZH's blog
-description: HOUZHENHONG的博客
-url: http://houzhenhong.eu.org
+title: HZH 写东西的地方
+description: HOUZHENHONG 写东西的地方
+url: https://houzhenhong.towerlight.top
 rss_url: /pages/rss.xml
 
 # avatar头像及Favicon
-avatar: http://dn-hzhblog.qbox.me/site-avatar.png
-favicon: http://dn-hzhblog.qbox.me/site-favicon.ico
+avatar: /site-avatar.png
+favicon: /site-favicon.ico
 
 # disqus 设置
 disqus:
