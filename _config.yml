@@ -20,8 +20,8 @@ url: https://houzhenhong.towerlight.top
 rss_url: /pages/rss.xml
 
 # avatar头像及Favicon
-avatar: /site-avatar.png
-favicon: /site-favicon.ico
+avatar: https://zest-1251077323.cos.ap-guangzhou.myqcloud.com/bolg/jyhtednskcojoynb.jpg
+favicon: https://zest-1251077323.cos.ap-guangzhou.myqcloud.com/bolg/favicon-hmqav0lw.png
 
 # disqus 设置
 disqus:
